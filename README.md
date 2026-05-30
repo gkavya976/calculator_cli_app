@@ -1,11 +1,12 @@
 # calculator_cli_app
-Functions-
-def add(a,b):
-return a + b
-whilw True-
-while True:
-input()-
-choice=input("Enter your choice:")
-break-
-if choice == '5':
-break
+
+A simple Python command-line calculator supporting:
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## Run
+
+```bash
+python calculator.py
